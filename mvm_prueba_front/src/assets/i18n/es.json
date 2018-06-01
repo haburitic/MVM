@@ -1,0 +1,33 @@
+{
+  "app": {
+    "menu": {
+      "menuDerecho": {
+        "employeesmanagement": "Gestión",
+        "home":"Inicio"
+       }
+    },
+
+    "AdministrationLoad": {
+      "title": "Gestión",
+      "management": "Ingrese pais",
+      "result":"Resultados",
+      "columns":{
+        "name":"name",
+        "alpha2_code":"alpha2_code",
+        "alpha3_code":"alpha3_code"
+
+      }
+    },
+    "button":{
+      "process":"Procesar",
+      "save":"Guardar",
+      "clean":"Limpiar"
+    },
+    "messages": {
+      "confirmation": "La transacción fue Exitosa",
+      "observation": "La transacción fue Exitosa",
+      "danger":"Error",
+      "observationDanger":"A ocurrido un error, contacte el administrador"
+    }
+  }
+}
